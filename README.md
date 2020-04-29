@@ -1,4 +1,4 @@
-# EliteFish
+# EliteFish Tournament Pro
 Privacy Policy
 Asheesh Parihar built the EliteFish Tournament Pro app as a Commercial app. This SERVICE is provided by Asheesh Parihar and is intended for use as is.
 
